@@ -14,6 +14,10 @@ A Laravel app that searches published articles with [Laravel Scout](https://lara
 - The last five searches are kept in this browser.
 - Drafts are stored in the database and left out of the index.
 
+## Demo
+
+https://github.com/user-attachments/assets/2abc5de9-dadb-4639-bc12-0fbaa4057b8c
+
 ## Requirements
 
 - PHP 8.3 or newer
